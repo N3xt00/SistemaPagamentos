@@ -1,4 +1,4 @@
-# 💳 Sistema de Processamento de Pagamentos
+- 💳 Sistema de Processamento de Pagamentos
 
 Projeto desenvolvido como atividade de fixação da disciplina de **Desenvolvimento de Sistemas (DS)** — 2DS AMS, aplicando os conceitos de **Herança** e **Polimorfismo** em C#.
 
